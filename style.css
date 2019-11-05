@@ -1,3 +1,24 @@
-html { font-family: sans-serif; background: #eee; padding: 1rem; }
-body { max-width: 600px; margin: 200px auto; padding:100px; border-radius: 100px; background: white; align-content: center;}
-h1 { font-family: serif; color: black; margin: 1rem 0; }
+html { 
+    font-family: sans-serif; 
+    background: #eee; 
+    padding: 1rem; }
+
+body { 
+    max-width: 600px; 
+    text-align: center; 
+    margin: 200px auto; 
+    padding:100px; 
+    border-radius: 100px; 
+    background: white; 
+    align-content: center;
+}
+
+h1 { 
+    font-family: serif; 
+    color: black; 
+    margin: 1rem 0; 
+}
+
+a {
+    color: black;
+}
